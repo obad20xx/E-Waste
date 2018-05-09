@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">المخلفات الإلكترونية</string>
+    <string name="Abstract">نبذة مختصرة</string>
+    <string name="intro">
+
+هذا البرنامج يحتوي علي معلومات عن المخلفات الإلكترونية تاتيك علي شكل إشعارات.
+
+    </string>
+    <string name="aiet">
+
+تم تصميمة بواسطة طلاب هندسة معهد رجب تحت إشراف الدكتور لمياء عبدالله.
+
+    </string>
+    <string name="go">
+
+اضغط في اي مكان للبدء.
+
+    </string>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">E-Waste</string>
+    <string name="Abstract">Abstract</string>
+    <string name="intro">
+
+This program contains information about e-waste come up in the form of notices.
+
+    </string>
+    <string name="aiet">
+
+Designed by students Ragab Engineering Institute under the supervision of Dr. Lamia Abdullah.
+
+    </string>
+    <string name="go">
+        Click anywhere to start.
+
+    </string>
+</resources>
